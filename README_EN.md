@@ -1,5 +1,5 @@
 # ADBMM
-[JP](README.md)/EN
+[JP](README.md)/★EN
 
 ![製品画像]()
 
