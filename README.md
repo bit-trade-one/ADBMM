@@ -9,7 +9,7 @@
 
 ## [サポートページ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
-## 支援者様リンク
+## 支援者様
 
 美耳はクラウドファンディングにて資金を募り製品化をすることができました。  
 応援してくださった皆様。誠にありがとうございました。  
