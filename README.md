@@ -1,9 +1,9 @@
 # ADBMM
+JP/[EN](README_EN.md)
 
 ![製品画像]()
 
-(製品説明後日記載)
-
+ここでは「美耳」の設計ファイルを公開しています。
 
 ## [製品HPリンク](http://bit-trade-one.co.jp/) 
 
