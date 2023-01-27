@@ -5,9 +5,9 @@
 
 The design file of "Bimimi" is published here.
 
-## [HP-Link](http://bit-trade-one.co.jp/) 
+### [HP-Link](http://bit-trade-one.co.jp/) 
 
-## [how-to-use](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [how-to-use](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
 ## Supporter
 
