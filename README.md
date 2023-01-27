@@ -5,9 +5,9 @@
 
 ここでは「美耳」の設計ファイルを公開しています。
 
-## [製品HPリンク](http://bit-trade-one.co.jp/) 
+### [製品HPリンク](http://bit-trade-one.co.jp/) 
 
-## [接続方法等サポートページ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [接続方法等サポートページ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
 ## 支援者様
 
