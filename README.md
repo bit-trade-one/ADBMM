@@ -1,4 +1,4 @@
-# ADXXXXX-Template
+# ADBMM-Template
 
 ![製品画像]()
 
@@ -7,14 +7,10 @@
 
 ## [製品HPリンク](http://bit-trade-one.co.jp/) 
 
-### [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [サポートページ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
-### [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
+## 支援者様リンク
 
-### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-### [Q&A](FAQ.md)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+美耳はクラウドファンディングにて資金を募り製品化をすることができました。  
+応援してくださった皆様。誠にありがとうございました。  
+### [支援者様一覧(外部サイト)](https://camp-fire.jp/projects/623002/backers#menu)
