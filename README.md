@@ -7,7 +7,7 @@
 
 ## [製品HPリンク](http://bit-trade-one.co.jp/) 
 
-### [サポートページ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+## [サポートページ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 
 ## 支援者様リンク
 
