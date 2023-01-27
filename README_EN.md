@@ -1,4 +1,4 @@
-# ADBMM
+# ADBMM-Binaural Microphone “Bimimi”
 [JP](README.md)/★EN
 
 ![製品画像]()
