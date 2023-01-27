@@ -11,6 +11,6 @@ The design file of "Bimimi" is published here.
 
 ## Supporter
 
-Mimimi was able to collect funds through crowdfunding and commercialize it.
+Bimimi was able to collect funds through crowdfunding and commercialize it.
 Everyone who cheered me up. Thank you very much.
 ### [List of supporters (external site)](https://camp-fire.jp/projects/623002/backers)
