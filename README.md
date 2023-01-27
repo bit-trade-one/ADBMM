@@ -1,4 +1,4 @@
-# ADBMM-Template
+# ADBMM
 
 ![製品画像]()
 
