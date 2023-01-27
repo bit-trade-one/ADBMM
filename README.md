@@ -1,4 +1,4 @@
-# ADBMM
+# ADBMM エントリーバイノーラルマイク「美耳」
 ★JP/[EN](README_EN.md)
 
 ![製品画像]()
