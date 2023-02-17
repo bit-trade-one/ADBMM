@@ -1,3 +1,3 @@
 # filelist
-- ADBMM_PCBV20.pdf
-- ADBMM回路図V20.pdf
+- ADBMM_PCBVXX.pdf
+- ADBMM回路図VXX.pdf
