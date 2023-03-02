@@ -14,3 +14,5 @@
 美耳はクラウドファンディングにて資金を募り製品化をすることができました。  
 応援してくださった皆様。誠にありがとうございました。  
 ### [支援者様一覧(外部サイト)](https://camp-fire.jp/projects/623002/backers)
+
+![image](https://user-images.githubusercontent.com/85532743/222311013-187e5365-daa9-4a0e-b275-7705007e12ad.png)
