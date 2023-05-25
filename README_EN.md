@@ -7,9 +7,10 @@
 
 The design file of "bimimi" is published here.
 
-### [HP-Link](http://bit-trade-one.co.jp/) 
+### [HP-Link](https://bit-trade-one.co.jp/bimimi/) 
 
-### [how-to-use-page](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [how-to-use-page](https://bit-trade-one.github.io/ADBMM/)
+
 
 ## Supporter
 
