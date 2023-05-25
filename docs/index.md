@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 
-# 美耳 サポートサイトTOP  
+## 美耳 サポートサイトTOP  
 
 # 接続方法
 
