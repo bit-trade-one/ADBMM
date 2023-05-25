@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 
-TOP
+# 美耳 サポートサイトTOP  
 
 # 接続方法
 
@@ -34,7 +34,7 @@ TOP
 
 # リンク
 
-- [美耳製品HP(サポートページ外)]()
+- [美耳製品HP](https://bit-trade-one.co.jp/bimimi/)
 - [設計情報(Github)](https://github.com/bit-trade-one/ADBMM)
 
 >当ウェブサイトの情報利用に関する免責事項については、[こちら](04disclaimer)をご確認ください。
