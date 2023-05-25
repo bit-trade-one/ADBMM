@@ -1,7 +1,9 @@
-# ADBMM-Binaural Microphone “Bimimi”
+# ADBMM-Binaural Microphone “bimimi”
 [JP](README.md)/★EN
 
-![製品画像](https://bit-trade-one.co.jp/bimimi/wp-content/uploads/sites/11/2023/05/%E8%83%8C%E6%99%AF%E7%99%BD%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E-e1684994975475-768x333.png)
+![製品画像](https://bit-trade-one.co.jp/bimimi/wp-content/uploads/sites/11/2023/05/%E8%83%8C%E6%99%AF%E7%99%BD%E8%83%8C%E6%99%AF%E9%80%8F%E6%98%8E-e1684994975475-768x333.png)  
+
+“bimimi” means beautiful ears in Japanese.  
 
 The design file of "Bimimi" is published here.
 
