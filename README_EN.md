@@ -5,7 +5,7 @@
 
 “bimimi” means beautiful ears in Japanese.  
 
-The design file of "Bimimi" is published here.
+The design file of "bimimi" is published here.
 
 ### [HP-Link](http://bit-trade-one.co.jp/) 
 
