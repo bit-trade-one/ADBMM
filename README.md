@@ -16,3 +16,8 @@
 ### [支援者様一覧(外部サイト)](https://camp-fire.jp/projects/623002/backers)
 
 ![image](https://user-images.githubusercontent.com/85532743/222311013-187e5365-daa9-4a0e-b275-7705007e12ad.png)
+
+## メディア掲載
+- [約2.2万円で人工耳付きのバイノーラルマイク「美耳」 - AV Watch](https://av.watch.impress.co.jp/docs/news/1504221.html) 2023年5月29日 16:00  
+- [BitTradeOneがバイノーラルマイク「美耳(びみみ)」の予約販売開始、低価格でASMR録音可能！ #audiostart](https://audiostart.info/2023/05/30/bimimi/) 2023年5月30日
+- [2万円台のバイノーラルマイク「美耳」、6/28より発売-PANORA](https://panora.tokyo/archives/66864) 2023年5月30日 16:57
