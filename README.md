@@ -21,3 +21,4 @@
 - [約2.2万円で人工耳付きのバイノーラルマイク「美耳」 - AV Watch](https://av.watch.impress.co.jp/docs/news/1504221.html) 2023年5月29日 16:00  
 - [BitTradeOneがバイノーラルマイク「美耳(びみみ)」の予約販売開始、低価格でASMR録音可能！ #audiostart](https://audiostart.info/2023/05/30/bimimi/) 2023年5月30日
 - [2万円台のバイノーラルマイク「美耳」、6/28より発売-PANORA](https://panora.tokyo/archives/66864) 2023年5月30日 16:57
+- [耳かきの音も再現できる——ビット・トレード・ワン、人工耳付きのバイノーラルマイク「美耳」を発売 - fabcross ](https://fabcross.jp/news/2023/20230531_bittradeone_binauralmic_bimimi.html)2023/05/31 11:35
