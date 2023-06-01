@@ -25,6 +25,10 @@ title: 接続方法
 
 - [DR-07X](200_Connect_TASCAM_DR-07X.md)
 
+本サイトに記載のないインターフェイスと接続し動作した場合、教えていだだけますと嬉しいです。  
+→[お問い合わせフォーム](https://bit-trade-one.co.jp/contactus/)  
+
+
   <footer>
     <p>Copyright © 2023 Bit Trade One, LTD. All rights reserved.</p>
   </footer>
