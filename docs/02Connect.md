@@ -10,7 +10,7 @@ title: 接続方法
 
 [TOP](index.md) / [接続方法](02Connect.md)
 
-### はじめて接続するときは
+### はじめての接続・注意点
 
 - [基本的な接続方法](03BASIC_Connect.md)
   
