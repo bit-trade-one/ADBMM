@@ -38,10 +38,14 @@
 # リンク
 
 - [美耳製品HP](https://bit-trade-one.co.jp/bimimi/)
-- [設計情報(Github)](https://github.com/bit-trade-one/ADBMM)
+- [美耳配信用_画像素材](https://drive.google.com/drive/folders/1Xegdhu7A4Z-9ws3_J1J2YNH_hXxa1dcp)
+
+---
+  
 - [ビット・トレード・ワンお問い合わせフォーム](https://bit-trade-one.co.jp/contactus/)
 - [ビット・トレード・ワンHP](https://bit-trade-one.co.jp/)
 - [美耳クラウドファンディングページ](https://camp-fire.jp/projects/view/623002?list=technology_popular)
+- [設計情報(Github)](https://github.com/bit-trade-one/ADBMM)
 
 >当ウェブサイトの情報利用に関する免責事項については、[こちら](04disclaimer)をご確認ください。
 
