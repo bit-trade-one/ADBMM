@@ -22,6 +22,10 @@
 
 > AG03の詳しい操作説明は公式サイトや取扱説明書をご確認ください。
 
+# 動画  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/INK_kmX0Rhc?si=K3Zm7QLlquiw8kVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
   <footer>
     <p>Copyright © 2023 Bit Trade One, LTD. All rights reserved.</p>
   </footer>
