@@ -23,3 +23,8 @@
 - [2万円台のバイノーラルマイク「美耳」、6/28より発売-PANORA](https://panora.tokyo/archives/66864) 2023年5月30日 16:57
 - [耳かきの音も再現できる——ビット・トレード・ワン、人工耳付きのバイノーラルマイク「美耳」を発売 - fabcross ](https://fabcross.jp/news/2023/20230531_bittradeone_binauralmic_bimimi.html)2023/05/31 11:35
 - [高値で高嶺の花だったバイノーラルマイクが2万円台で！-GIZMODO](https://www.gizmodo.jp/2023/06/binaural-microphone-bimimi.html)2023.06.03 19:30
+
+
+## 紹介・レビュー
+
+[「はづきちゃんねる」様 / 「お手頃入門？本格的？ #ASMR #バイノーラルマイク 「美耳 -bimimi-」商品開封・使用レビュー動画」](https://www.youtube.com/watch?v=rwnK0rS9CD8)
