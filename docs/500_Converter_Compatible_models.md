@@ -9,7 +9,7 @@
 
 ### 動作対応機種リスト
 
-| 端末 / OS                                 | PC汎用アプリ | GarageBand | PCM録音 | USB audio recorder PRO | IRIAM | REALITY | SHOWROOM | 17LIVE | Pococha（ポコチャ） |
+| 端末 / OS | PC汎用アプリ | [GarageBand](https://apps.apple.com/jp/app/garageband/id408709785) | [PCM録音](https://play.google.com/store/apps/details?id=com.kohei.android.pcmrecorder&hl=ja) | [USB audio recorder PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudiorecorderpro&hl=ja) | [IRIAM](https://www.live.iriam.com/) | [REALITY](https://reality.app/) | SHOWROOM | 17LIVE | Pococha（ポコチャ） |
 |-------------------------------------------|:-----------:|:---------:|:------:|:----------------------:|:-----:|:-------:|:--------:|:------:|:-------------------:|
 | Windows 11 PC                             | ⭕️ | ■ | ■ | ■ | ■ | ■ | ■ | ■ | ■ |
 | | | | | | | | | | |
