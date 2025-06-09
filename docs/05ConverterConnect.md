@@ -12,7 +12,7 @@ title: 変換機 接続方法
 
 ### 変換機 目次
 
-- [対応機種一覧](03BASIC_Connect.md)
+- [対応機種一覧](500_Converter_Compatible_models.md)
 
 # 配線図
 後日更新
