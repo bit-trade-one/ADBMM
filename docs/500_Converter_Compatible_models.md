@@ -8,7 +8,7 @@
 
 
 ### 動作対応機種リスト  
-（6月1日時点・随時更新）  
+（2025年6月1日時点・随時更新）  
 
 
 | 端末 / OS | PC汎用アプリ | <a href="https://apps.apple.com/jp/app/garageband/id408709785" target="_blank" rel="noopener">GarageBand</a> | <a href="https://play.google.com/store/apps/details?id=com.kohei.android.pcmrecorder&hl=ja" target="_blank" rel="noopener">PCM録音</a> | <a href="https://play.google.com/store/apps/details?id=com.extreamsd.usbaudiorecorderpro&hl=ja" target="_blank" rel="noopener">USB audio recorder PRO</a> | <a href="https://www.live.iriam.com/" target="_blank" rel="noopener">IRIAM</a> | <a href="https://reality.app/" target="_blank" rel="noopener">REALITY</a> | SHOWROOM | 17LIVE | Pococha（ポコチャ） |
