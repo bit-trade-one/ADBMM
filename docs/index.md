@@ -17,7 +17,8 @@
 
 # 接続方法
 
-- [各種接続方法](02Connect.md)
+- [美耳 各種接続方法](02Connect.md)
+- [変換機 各種接続方法](05ConverterConnect.md)
   
 <!--
 # 関連ツール
