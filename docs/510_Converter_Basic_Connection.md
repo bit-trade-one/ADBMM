@@ -19,9 +19,10 @@
 **※1のUSB AtoCケーブルは付属品には1本しかなくこの使用方法では足りません。別途ご用意ください。**  <br><br>
 
 # ブロック図
-<img src="https://github.com/user-attachments/assets/864c9da7-5c44-4511-8d17-80cfc07879a3" alt="接続方法電力供給"  height="800"> <br>
-[ここをクリックで拡大](https://github-production-user-asset-6210df.s3.amazonaws.com/85532743/495332380-864c9da7-5c44-4511-8d17-80cfc07879a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T182731Z&X-Amz-Expires=300&X-Amz-Signature=5525f0af8a17e108c460f137cbdbf60f33cf0b99fdace5f40c70b179ce9ffc64&X-Amz-SignedHeaders=host)  
-詳細はコーデックIC CM6646のデータシートをご覧ください。
+<img src="https://github.com/user-attachments/assets/aa37022e-18f8-4ff4-af3d-dceb9f28a702" alt="接続方法電力供給"  height="800"> <br>
+
+[ここをクリックで図を拡大](https://github-production-user-asset-6210df.s3.amazonaws.com/85532743/495337301-aa37022e-18f8-4ff4-af3d-dceb9f28a702.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T183410Z&X-Amz-Expires=300&X-Amz-Signature=c69d4a4ddee6632b4c46e204303e25581f9f6f4b9a80333bfaa1727618420fdf&X-Amz-SignedHeaders=host)  
+詳細はコーデックIC CM6646のデータシートからご確認いただけます。
 
   <footer>
     <p>Copyright © 2023 Bit Trade One, LTD. All rights reserved.</p>
