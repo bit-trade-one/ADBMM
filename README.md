@@ -27,4 +27,6 @@
 
 ## 紹介・レビュー
 
-[「はづきちゃんねる」様 / 「お手頃入門？本格的？ #ASMR #バイノーラルマイク 「美耳 -bimimi-」商品開封・使用レビュー動画」](https://www.youtube.com/watch?v=rwnK0rS9CD8)
+[「はづきちゃんねる」様 / 「お手頃入門？本格的？ #ASMR #バイノーラルマイク 「美耳 -bimimi-」商品開封・使用レビュー動画」](https://www.youtube.com/watch?v=rwnK0rS9CD8)  
+
+他、[美耳使ってみたキャンペーン動画等](https://bit-trade-one.co.jp/bimimi/#features:~:text=%E3%81%AB%E3%81%A6%E5%AE%9F%E6%96%BD-,%E3%80%8C%23%E7%BE%8E%E8%80%B3%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%80%8D,-%E6%8A%95%E7%A8%BF%E3%81%84%E3%81%9F%E3%81%A0)もご参考まで。
