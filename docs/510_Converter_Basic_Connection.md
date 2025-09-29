@@ -18,6 +18,10 @@
 や同等品を使用すれば上位機器に電力供給しながら本製品を使用できます。  
 **※1のUSB AtoCケーブルは付属品には1本しかなくこの使用方法では足りません。別途ご用意ください。**  <br><br>
 
+# ブロック図
+<img src="https://github.com/user-attachments/assets/864c9da7-5c44-4511-8d17-80cfc07879a3" alt="接続方法電力供給"  height="800"> <br>
+詳細はコーデックIC CM6646のデータシート等をご覧ください。
+
   <footer>
     <p>Copyright © 2023 Bit Trade One, LTD. All rights reserved.</p>
   </footer>
