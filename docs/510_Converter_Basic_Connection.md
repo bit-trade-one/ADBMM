@@ -20,7 +20,8 @@
 
 # ブロック図
 <img src="https://github.com/user-attachments/assets/864c9da7-5c44-4511-8d17-80cfc07879a3" alt="接続方法電力供給"  height="800"> <br>
-詳細はコーデックIC CM6646のデータシート等をご覧ください。
+[ここをクリックで拡大](https://github-production-user-asset-6210df.s3.amazonaws.com/85532743/495332380-864c9da7-5c44-4511-8d17-80cfc07879a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T182731Z&X-Amz-Expires=300&X-Amz-Signature=5525f0af8a17e108c460f137cbdbf60f33cf0b99fdace5f40c70b179ce9ffc64&X-Amz-SignedHeaders=host)  
+詳細はコーデックIC CM6646のデータシートをご覧ください。
 
   <footer>
     <p>Copyright © 2023 Bit Trade One, LTD. All rights reserved.</p>
