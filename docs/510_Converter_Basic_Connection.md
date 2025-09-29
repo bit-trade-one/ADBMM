@@ -10,7 +10,7 @@
 
 # 上位機器に給電しながら使用する場合
 
-<img src="https://github.com/user-attachments/assets/65a9a5ac-82cb-404d-95be-9846e56cbf8f" alt="接続方法電力供給"  height="600"> <br>
+<img src="https://github.com/user-attachments/assets/a7486f28-9d4f-46fd-9204-1712590b5d9b" alt="接続方法電力供給"  height="600"> <br>
 <a href="https://www.google.com/search?q=MPA-CAPDBK&oq=MPA-CAPDBK&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIHCAMQABjvBdIBBzM1MWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8"
    target="_blank" rel="noopener noreferrer">
   エレコム MPA-CAPDBK
