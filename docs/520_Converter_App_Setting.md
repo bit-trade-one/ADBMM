@@ -35,16 +35,12 @@
 <a name="reality"></a>
 ### REALITY
 設定を適応しないとステレオ録音できない可能性があります。 
-- iPhone  
-ユーザープロフィールページ → 設定 → サウンド → 入力チャンネル ステレオ を選択する
-
-<img src="https://github.com/user-attachments/assets/a961f264-1dba-402a-93df-9e0428cf4c24" width="300">
-
 
 - Android   
 ユーザープロフィールページ → 設定 → サウンドと触覚 → ステレオ入力 をONにする
 
 <img src="https://github.com/user-attachments/assets/9eab1f1b-b4da-4f09-b187-a2004ee0fc34" width="600">
+
 
 
 
