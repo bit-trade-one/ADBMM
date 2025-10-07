@@ -21,7 +21,7 @@
 # ブロック図
 <img src="https://github.com/user-attachments/assets/aa37022e-18f8-4ff4-af3d-dceb9f28a702" alt="接続方法電力供給"  height="800"> <br>
 
-[ここをクリックで図を拡大](https://github-production-user-asset-6210df.s3.amazonaws.com/85532743/495337301-aa37022e-18f8-4ff4-af3d-dceb9f28a702.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T183410Z&X-Amz-Expires=300&X-Amz-Signature=c69d4a4ddee6632b4c46e204303e25581f9f6f4b9a80333bfaa1727618420fdf&X-Amz-SignedHeaders=host)  
+[ここをクリックで図を拡大](https://github-production-user-asset-6210df.s3.amazonaws.com/85532743/495337301-aa37022e-18f8-4ff4-af3d-dceb9f28a702.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251007T114248Z&X-Amz-Expires=300&X-Amz-Signature=cd8511d193cbd0df2671c93c999ec5fe32fb690c1f1e82e8373bf33d5e5e58cf&X-Amz-SignedHeaders=host)  
 詳細はコーデックIC CM6646のデータシートからご確認いただけます。
 
   <footer>
