@@ -13,9 +13,14 @@
 
 美耳はクラウドファンディングにて資金を募り製品化をすることができました。  
 応援してくださった皆様。誠にありがとうございました。  
-### [支援者様一覧(外部サイト)](https://camp-fire.jp/projects/623002/backers)
+### [美耳 支援者様一覧(外部サイト)](https://camp-fire.jp/projects/623002/backers)
 
 ![image](https://user-images.githubusercontent.com/85532743/222311013-187e5365-daa9-4a0e-b275-7705007e12ad.png)
+
+### [美耳 USBオーディオ 変換機 支援者様一覧(外部サイト)](https://camp-fire.jp/projects/832208/view/backers)
+
+![image](https://github.com/user-attachments/assets/d359a131-c59e-429c-83a0-bb9c543037b2)
+
 
 ## メディア掲載
 - [約2.2万円で人工耳付きのバイノーラルマイク「美耳」 - AV Watch](https://av.watch.impress.co.jp/docs/news/1504221.html) 2023年5月29日 16:00  
