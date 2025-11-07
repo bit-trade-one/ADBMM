@@ -16,6 +16,11 @@ The design file of "bimimi" is published here.
 
 Bimimi was able to collect funds through crowdfunding and commercialize it.  
 Everyone who cheered me up. Thank you very much.
-### [List of supporters (external site)](https://camp-fire.jp/projects/623002/backers)
+### [Bimimi List of supporters (external site)](https://camp-fire.jp/projects/623002/backers)
 
 ![image](https://user-images.githubusercontent.com/85532743/222311106-393c811a-d21d-4974-bf65-1d91fb9584d9.png)
+
+### [Bimimi USB Audio Converter List of supporters (external site)](https://camp-fire.jp/projects/832208/view/backers)
+
+![image](https://github.com/user-attachments/assets/d359a131-c59e-429c-83a0-bb9c543037b2)
+
