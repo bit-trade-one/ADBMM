@@ -10,7 +10,8 @@
 <img src="https://github.com/user-attachments/assets/b0d5bdae-fea8-47ff-a3fa-6f9aa4b43113"
      alt="UAD基本的な接続方法"
      style="max-width:100%; height:auto; display:block;">
-図の通りであれば、美耳と美耳変換機に付属するケーブルのみで接続可能です。<br><br>
+図の通りであれば、美耳と美耳変換機に付属するケーブルのみで接続可能です。  
+ADBMM 美耳の GAINはLOWで使用することをおすすめします。 <br><br>
 
 # 上位機器に給電しながら使用する場合
 
